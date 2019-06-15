@@ -1,6 +1,6 @@
 
 --- 
-name: lbname16
+name: lbname100
 namespace: com.citrix.adc.commontypes
 version: "1.0"
 private: true
